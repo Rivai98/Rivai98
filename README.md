@@ -1,4 +1,5 @@
-Hola, ![wave](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif) I'm Omar Abd El Nasser Ahmed  
+Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px" alt="wave"> I'm Omar Abd El Nasser Ahmed
+
 [![Profile](https://komarev.com/ghpvc/?username=omarabdelnasser298&label=Views&color=blue&style=flat)](https://github.com/omarabdelnasser298)
 
 💫 About Me :  
